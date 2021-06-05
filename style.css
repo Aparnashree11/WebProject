@@ -1,0 +1,162 @@
+.ind {
+  background-color: #98ddca;
+  position: relative;
+  padding-top: 100px;
+}
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: "Mate SC",serif;
+  color: #40514e;
+  font-size: 20px;
+}
+
+.pro{
+  color: #d5ecc2;
+}
+
+p{
+    line-height: 2;
+}
+
+h2{
+  font-family: "Montserrat",sans-serif;
+  color: #95e1d3;
+  padding-bottom: 10px;
+}
+
+
+h3{
+  font-family: "Raleway",sans-serif;
+  font-size: 20px;
+  color: #11999E;
+}
+
+a{
+    color: #ffaaa7;
+      font-family: "Mate SC",serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover{
+  color: #ffe9e8;
+}
+
+.cr{
+  color: #ffe9e8;
+  font-size: 0.75 rem;
+  padding: 20px 0;
+}
+
+h1{
+  margin-top: 50px;
+  margin-bottom: 0;
+  font-size: 90px;
+  color: #d5ecc2;
+  font-family: 'Sacramento',cursive;
+  /*
+prob:- width: 10%; //no centre alignment visible
+sol:- margin: 0 auto 0 auto; //clockwise
+     //auto aligns itself to center (take out the first margin)
+  */
+}
+
+
+.botcl{
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.topcl{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.middle-container{
+  background-color: #ffd3b4;
+}
+
+.intro{
+  width:30%;
+  margin: auto;
+}
+
+.bottom-container{
+  background-color: #f38181;
+  padding : 30px 0 5px;
+}
+
+.dp{
+  width: 200px;
+  height: 200px;
+}
+
+.eat{
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin-right: 30px;
+}
+
+.sleep{
+  width: 200px;
+  height: 200px;
+  float: right;
+  margin-right: 30px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.BUTTON_NKJ {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 10px;
+   line-height: 10px;
+   color: #ffd3b4;
+   font-family: "Montserrat",sans-serif;
+   width: 100px;
+   font-size: 14px;
+   font-weight: 100;
+   padding: 17px;
+   background-color: #11999E;
+   -webkit-box-shadow: 1px 1px 5px 0 #000000;
+   -moz-box-shadow: 1px 1px 5px 0 #000000;
+   box-shadow: 1px 1px 5px 0 #000000;
+   text-shadow: 0 1px 5px #000000;
+   border: solid #11999E 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_NKJ:hover {
+  background: #95e1d3;
+  border: solid #95e1d3 1px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+hr{
+  border: dotted #ffaaa7;
+  border-bottom: none;
+  width: 4%;
+  border-width: 5px;
+  margin: 70px auto;
+}
+
+.contact-me {
+  width: 40%;
+  margin: 40px auto 0;
+}
